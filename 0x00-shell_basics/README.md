@@ -11,3 +11,4 @@ File 9-firstdirdeletion deletes the directory holberton that is in the /tmp dire
 File 10-back writes a script that changes the working directory to the previous one.
 File 11-lists writes a script that lists all files
 File 12-file_type writes a script that prints the type of the file named iamafile.
+File 13-symbolic_link creates a symbolic link to /bin/ls, named ls.
