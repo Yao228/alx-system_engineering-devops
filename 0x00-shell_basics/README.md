@@ -9,3 +9,5 @@ File 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
 File 8-firstdelete deletes he file betty.
 File 9-firstdirdeletion deletes the directory holberton that is in the /tmp directory.
 File 10-back writes a script that changes the working directory to the previous one.
+File 11-lists writes a script that lists all files
+
